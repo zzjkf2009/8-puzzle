@@ -24,6 +24,8 @@ make
 Run tests: ./test/cpp-test
 Run program: ./app/shell-app
 ```
+If the repository has "build" folder already, you don't have to create a duplicate 
+folder again.
 ## Result
 ### Possible Nodes
 All the possible nodes are stored in the StoreAllNodes.txt file (One example is placed at Result folder, the new auto generated is located at 'build' folder)
