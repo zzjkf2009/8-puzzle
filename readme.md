@@ -26,6 +26,9 @@ Run program: ./app/shell-app
 ```
 If the repository has "build" folder already, you don't have to create a duplicate 
 folder again.
+
+## Slove the puzzle
+The initial board are defined in the main.cpp (app folder) and it can be changed into any board as you like and then compile the program follow the code above. **Note** that not all initial board has feasible solution.  
 ## Result
 ### Possible Nodes
 All the possible nodes are stored in the StoreAllNodes.txt file (One example is placed at Result folder, the new auto generated is located at 'build' folder)
