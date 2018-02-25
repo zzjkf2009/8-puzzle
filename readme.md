@@ -8,7 +8,7 @@ The is a simple solver (c++) to complete the 8-puzzle problem by finding the opt
 
 
 ## Pre-request
-
+- ubuntu 16.04
 - cmake
 - googletest
 - git
